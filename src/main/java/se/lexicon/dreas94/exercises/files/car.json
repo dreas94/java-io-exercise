@@ -1,0 +1,23 @@
+[ {
+  "carId" : "ef1fddc1-9d47-431f-8a27-ce34e5290c92",
+  "regNumber" : "41fdq",
+  "brand" : "d13134",
+  "model" : null,
+  "regDate" : "2022-05-18",
+  "owner" : {
+    "ownerId" : "e0c0b93d-921a-4788-b759-b7622af91484",
+    "name" : "Andreas",
+    "birthdate" : "1994-03-14"
+  }
+}, {
+  "carId" : "ba8fac17-913e-411f-8849-108f530e8d74",
+  "regNumber" : "11243qfe",
+  "brand" : "213r23r4",
+  "model" : null,
+  "regDate" : "2022-05-18",
+  "owner" : {
+    "ownerId" : "87d5fa92-5b23-4bea-8f79-4d6231a884dc",
+    "name" : "Tabea",
+    "birthdate" : "1998-04-09"
+  }
+} ]
